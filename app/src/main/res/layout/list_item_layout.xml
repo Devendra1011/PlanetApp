@@ -19,13 +19,14 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_margin="16dp"
-        android:text="Earth"
+        android:text="Planet Name"
         android:textSize="28sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@id/lil_iv_planet"
         app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
+        android:text="Moon Count"
         android:id="@+id/lil_tv_moonCount"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
